@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Implementation-Title: 19434851_TranMinhHieu_420300154901_3
+Implementation-Version: 1
+Created-By: Maven Integration for Eclipse
+
